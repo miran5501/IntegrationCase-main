@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miran\\Desktop\\IntegrationCase-main-main\\IntegrationCase-main-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50C8BF69-071D-486E-8374-32D6E155064F}|Integration\\Integration.csproj|c:\\users\\miran\\desktop\\integrationcase-main-main\\integrationcase-main-main\\integration\\service\\itemintegrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C8BF69-071D-486E-8374-32D6E155064F}|Integration\\Integration.csproj|solutionrelative:integration\\service\\itemintegrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C8BF69-071D-486E-8374-32D6E155064F}|Integration\\Integration.csproj|c:\\users\\miran\\desktop\\integrationcase-main-main\\integrationcase-main-main\\integration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C8BF69-071D-486E-8374-32D6E155064F}|Integration\\Integration.csproj|solutionrelative:integration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\IntegrationCase-main-main\\IntegrationCase-main-main\\Integration\\Program.cs",
+              "RelativeDocumentMoniker": "Integration\\Program.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\IntegrationCase-main-main\\IntegrationCase-main-main\\Integration\\Program.cs",
+              "RelativeToolTip": "Integration\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:49:08.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemIntegrationService.cs",
+              "DocumentMoniker": "C:\\Users\\miran\\Desktop\\IntegrationCase-main-main\\IntegrationCase-main-main\\Integration\\Service\\ItemIntegrationService.cs",
+              "RelativeDocumentMoniker": "Integration\\Service\\ItemIntegrationService.cs",
+              "ToolTip": "C:\\Users\\miran\\Desktop\\IntegrationCase-main-main\\IntegrationCase-main-main\\Integration\\Service\\ItemIntegrationService.cs",
+              "RelativeToolTip": "Integration\\Service\\ItemIntegrationService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:45:59.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
